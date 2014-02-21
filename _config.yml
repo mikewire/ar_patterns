@@ -1,4 +1,4 @@
 name: Reporting Design Patterns
-markdown: redcarpet
+markdown: kramdown
 pygments: true
-baseurl: /ar_patterns
+baseurl: ar_patterns
