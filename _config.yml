@@ -1,6 +1,6 @@
 name: Reporting Design Patterns
 markdown: kramdown
 pygments: true
-baseurl: ar_patterns
+baseurl: /ar_patterns
 safe: true
 lsi: false
